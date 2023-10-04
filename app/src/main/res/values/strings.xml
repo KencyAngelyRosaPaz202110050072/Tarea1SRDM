@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea1SRDM</string>
+    <string name="primernumero">Ingrese el primer numero</string>
+    <string name="segundonumero">Ingrese el segundo numero</string>
+    <string name="resultado">Resultado</string>
+
+</resources>
